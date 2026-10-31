@@ -47,3 +47,10 @@ numbers. Not legal advice - your mission's own requirements take precedence.
 - Royal Thai Embassy London (document list incl. GBP 12,000): https://london.thaiembassy.org
 
 Contributions welcome: open a PR with a mission-specific document list and the embassy URL.
+
+## Mirrors (same checklist, other platforms)
+
+- Gist EN: https://gist.github.com/mytab0r/2b498648a68d3d46ac704b68c809cc89
+- Gist RU: https://gist.github.com/mytab0r/ce3292ce818a261bafa97172c90435cc
+- Mirror with images: https://rentry.co/3n4c4szb
+- Pages version: https://mytab0r.github.io/dtv-visa-checklist/
